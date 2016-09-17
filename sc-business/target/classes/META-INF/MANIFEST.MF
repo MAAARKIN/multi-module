@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SC Business Project
+Implementation-Version: 1.0.0
+Built-By: sdksdk
+Implementation-Vendor-Id: br.com.multi.example
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/sc-business/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
